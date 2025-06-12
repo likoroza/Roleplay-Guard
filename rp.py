@@ -58,6 +58,7 @@ def moderate_with_chat(message):
             "- Approve: if the message is safe.\n"
             "- Warning: if it's questionable or slightly inappropriate.\n"
             "- Disapprove: if it's clearly inappropriate, unsafe, or against rules.\n"
+            "Rules: No excessive violence"
             "If it is warned or disapproved add a short explanaition why."
             f"Message to review: \"{message}\"\n"
             "Label:"
