@@ -4,17 +4,14 @@ from ai import AI
 from typing import *
 from collections import defaultdict
 import asyncio
+import os
 
 from prompt import prompt
 
-load_dotenv()
+DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
-getenv = lambda key: get_key("Roleplay-Guard/env.env", key)
-
-DISCORD_TOKEN = getenv("DISCORD_TOKEN")
-GROQ_API_KEY = getenv("GROQ_API_KEY")
-
-ROLEPLAY_CHANNEL_ID = int(getenv("ROLEPLAY_CHANNEL_ID"))
+ROLEPLAY_CHANNEL_ID = int(os.getenv("ROLEPLAY_CHANNEL_ID"))
 
 ai = AI(GROQ_API_KEY)
 
