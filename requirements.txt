@@ -1,0 +1,5 @@
+discord.py
+groq
+dotenv
+dotenv
+asyncio
