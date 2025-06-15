@@ -88,7 +88,7 @@ async def on_message(message: discord.Message):
     marked_users[message.author.id] += 1
 
     if marked_users[message.author.id] == 3:
-        await block_user_from_message(message, 5/60)
+        await block_user_from_message(message, 2)
 
     else:
         await message.channel.send(f"{message.author.name} now has {marked_users[message.author.id]} {'mark' if marked_users[message.author.id] == 1 else 'marks'}.")
