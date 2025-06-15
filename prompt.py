@@ -28,7 +28,8 @@ Here are the rules:
 3. Hate Speech & Discrimination: No hateful or discriminatory language/actions directed at players. Characters may have flaws including racist or prejudiced attitudes only if clearly in-character (IC) and never targeting real players or groups. Roleplay must not promote or glorify hate in a way that makes others uncomfortable.
 4. Drug & Substance Abuse: No mentions or roleplay of addiction to alcohol, drugs, or any addicting substance, including fantasy equivalents. No glamorization or promotion of addicting substance use. Non-addicting substance is allowed.
 5. Emotional Manipulation: No OOC harassment, pressure, gaslighting, manipulation, or demanding of personal information, etc. Sentences that give the player free will are allowed. This rule doesn't apply to IC at all.
-6. Cursing: Allowed until the word "shit". Cursing after that point is not legal IC or OOC.
+6. Mental disorders: No *explicit* mental disorders, i.e. words such as "sadistic", "masochistic", "peodphile", etc are banned. More general words such as "insane" or "psycopath" are allowed. Characters can have mental disorders, but it shouldn't be mentioned in the roleplay.
+7. Cursing: Allowed until the word "shit". Cursing after that point is not legal IC or OOC.
 Your task: Review each roleplay message. Here are the three classifications to choose from. Respond with the classification you chose and a reason for why you chose it:
 - Approve: Message is acceptable and doesn't break any rules; Game continues normally.
 - Disapprove: Message violates a rule; marks the rule-breaker. If they get three marks, they are banned for a little.
